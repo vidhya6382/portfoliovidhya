@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { toggleTheme } from "../useTheme.js";
+
 
 const GithubIcon = () => (
   <svg viewBox="0 0 24 24" aria-hidden="true">

@@ -2,8 +2,8 @@
 
 export const PROFILE = {
   name: "Vidhya G",
-  role: "Website Developer",
-  where: "Fresher · Surandai, Tenkasi · HTML · CSS · JavaScript · React",
+  role: "Fullstack Developer",
+  where: "Fresher · Surandai, Tenkasi · HTML · CSS · JavaScript · React · Python · Django · Mysql",
   email: "vidhv501@gmail.com",
   phone: "6382183563",
   // Put your photo in the "public" folder and write its file name, for example "photo.png".
